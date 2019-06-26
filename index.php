@@ -14,7 +14,7 @@
     <h1>GOENDENDAG WERELD</h1>
     <p>ik houd niet zo van kippen </p>
     <div class="alert alert-primary" role="alert">
-     A simple primary alert—check it out!!!!!!
+     A simple primary alert—check it out!!!!!!jajajajajajajaj
     </div>
 
   
