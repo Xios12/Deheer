@@ -12,6 +12,7 @@
   </head>
   <body>
     <h1>GOENDENDAG WERELD</h1>
+    <p>ik houd niet zo van kippen </p>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
